@@ -4,11 +4,12 @@
 O teste foi desenvolvido conforme todos os requisitos solicitados, utilizando a linguagem JavaScript com o framework Cypress e o pacote Faker para geração de dados dinâmicos. Dessa forma, não é necessário alterar os dados manualmente, garantindo que sempre sejam utilizados dados diferentes em cada execução.  
 
 O projeto segue a seguinte ordem de execução:  
-1- Cadastro no site  
-2- pesquisa de produto  
-3- Seleção de produtos  
-4- Checkout do produto  
-5- Review do produto pos compra  
+
+1 - Cadastro no site  
+2 - Pesquisa de produto  
+3 - Seleção de produtos  
+4 - Checkout do produto  
+5 - Review do produto pos compra  
 
 # Rezoes para escolher cypress:
 O framework é simples e fácil de usar e permite um retorno no mesmo instante, permitindo que acompanhe os resultados instantaneamente, facilitando a identificação e correção de erros.
