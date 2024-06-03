@@ -1,0 +1,11 @@
+# Dependências do Node.js
+node_modules/
+
+# Arquivos de build
+.nyc_output
+coverage/
+cypress/screenshots/
+cypress/videos/
+
+# Configurações de ambiente
+.env
