@@ -32,7 +32,7 @@ Cypress por ser mais antigo que o Playwright, possui uma documentação excelent
 
 - [Node.js](https://nodejs.org/) (versão 12 ou superior)
 
-# Instruções 
+# Instruções de instalação e execução
 
 1 - Baixe o projeto [GitHub](https://github.com/calegariosouza/LumaStoreCodesh).  
 2 - Exporte a LumaStoreCodesh-main.zip e acesse a raiz do projeto.  
@@ -42,5 +42,12 @@ Cypress por ser mais antigo que o Playwright, possui uma documentação excelent
 4 - Quando o Cypress abrir, selecione "E2E Testing".  
 5 - Escolha o navegador desejado.  
 6 - Após selecionar o navegador, o navegador do Cypress será aberto. Selecione o arquivo **sc01.cy.js** que corresponde ao teste desenvolvido.  
+**Observação:** Caso tenha algum antivírus instalado em seu computador, recomenda-se pausá-lo, pois o Cypress realiza um acesso remoto no navegador e alguns antivírus podem reconhecer isso como uma ameaça, bloqueando e causando erros na execução do teste.    
 
-**Observação:** Caso tenha algum antivírus instalado em seu computador, recomenda-se pausá-lo, pois o Cypress realiza um acesso remoto no navegador e alguns antivírus podem reconhecer isso como uma ameaça, bloqueando e causando erros na execução do teste.  
+# Instruções de acesso aos arquivos
+
+1 - O arquivo  **sc01.cy.js** está dentro da pasta cypress/e2e. Nesse arquivo contem todos os blocos de códigos que foram desenvolvidos para realizar o passo a passo mencionado na **Descrição**.  
+2 - Na pasta **Pages** contem os arquivos onde ficam armazenamos os elementos utilizados para executar cada ação, separado por modulos: Cadastro, Pesquisa, Checkout e Produto.  
+
+
+>  This is a challenge by [Coodesh](https://coodesh.com/)
