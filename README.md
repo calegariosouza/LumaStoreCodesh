@@ -36,6 +36,6 @@ Cypress por ser mais antigo que o Playwright, possui uma documentação excelent
 4 - Apos realizar a instalação dos modulos do cypress, rode o comando: **npm run test**.  
 4 - Quando o Cypress abrir, selecione "E2E Testing".  
 5 - Escolha o navegador desejado.  
-6 - Após selecionar o navegador, o Chrome do Cypress será aberto. Selecione o arquivo **sc01.cy.js** que corresponde ao teste desenvolvido.  
+6 - Após selecionar o navegador, o navegador do Cypress será aberto. Selecione o arquivo **sc01.cy.js** que corresponde ao teste desenvolvido.  
 
 **Observação:** Caso tenha algum antivírus instalado em seu computador, recomenda-se pausá-lo, pois o Cypress realiza um acesso remoto no navegador e alguns antivírus podem reconhecer isso como uma ameaça, bloqueando e causando erros na execução do teste.  
