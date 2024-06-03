@@ -12,7 +12,7 @@ O projeto segue a seguinte ordem de execução:
 4 - Checkout do produto  
 5 - Review do produto pos compra  
 
-# Rezoes para escolher cypress:
+# Rezoes para escolher Cypress:
 
 O framework é simples e fácil de usar e permite um retorno no mesmo instante, permitindo que acompanhe os resultados instantaneamente, facilitando a identificação e correção de erros.
 
