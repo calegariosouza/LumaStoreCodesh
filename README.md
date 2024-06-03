@@ -23,7 +23,7 @@ O Cypress permite a criação de testes que se acemelham como um usuário real, 
 Com o Cypress você pode simular vários estados de rede e ajustar o comportamento do navegador para testes mais consistentes. 
 Cypress tem uma comunidade ativa e uma extensa documentação, é fácil encontrar soluções para problemas e obter suporte de outros desenvolvedores.
 
-# Porque usar cypress em vez do Playwright 
+# Porque usar Cypress em vez do Playwright 
 
 Cypress possue uma interface simples de compreender, permitindo que o usuário acompanhe os testes sendo executado em tempo real inspecionando os estados do DOM duração a execução. Já o Playwright não permite que acompanhe os testes em tempo real, apenas mostrando screenshots de algum passos que são executados durante os testes dificultando os testes.
 Cypress por ser mais antigo que o Playwright, possui uma documentação excelente e mais completa, rica em detalhes permitindo soluções para diversos problemas
