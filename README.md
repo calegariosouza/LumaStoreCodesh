@@ -22,12 +22,12 @@ Cypress por ser mais antigo que o Playwright, possui uma documentação excelent
 
 # Instruções 
 
-1 - Baixe o projeto [GitHub](https://github.com/calegariosouza/LumaStoreCodesh).
-2 - Dentro da pasta do projeto, clique com o botão direito e abra o terminal.
-3 - No terminal, se não tiver aberto a partir da pasta do projeto, navegue até o diretório correto e execute o comando: **npm intall**
-4 - Apos realizar a instalação dos modulos do cypress, rode o comando: **npm run test**
-4 - Quando o Cypress abrir, selecione "E2E Testing".
-5 - Escolha o navegador desejado.
-6 - Após selecionar o navegador, o Chrome do Cypress será aberto. Selecione o arquivo **sc01.cy.js** que corresponde ao teste desenvolvido.
+1 - Baixe o projeto [GitHub](https://github.com/calegariosouza/LumaStoreCodesh).  
+2 - Dentro da pasta do projeto, clique com o botão direito e abra o terminal.  
+3 - No terminal, se não tiver aberto a partir da pasta do projeto, navegue até o diretório correto e execute o comando: **npm intall**.  
+4 - Apos realizar a instalação dos modulos do cypress, rode o comando: **npm run test**.  
+4 - Quando o Cypress abrir, selecione "E2E Testing".  
+5 - Escolha o navegador desejado.  
+6 - Após selecionar o navegador, o Chrome do Cypress será aberto. Selecione o arquivo **sc01.cy.js** que corresponde ao teste desenvolvido.  
 
-**Observação:** Caso tenha algum antivírus instalado em seu computador, recomenda-se pausá-lo, pois o Cypress realiza um acesso remoto no navegador e alguns antivírus podem reconhecer isso como uma ameaça, bloqueando e causando erros na execução do teste.
+**Observação:** Caso tenha algum antivírus instalado em seu computador, recomenda-se pausá-lo, pois o Cypress realiza um acesso remoto no navegador e alguns antivírus podem reconhecer isso como uma ameaça, bloqueando e causando erros na execução do teste.  
