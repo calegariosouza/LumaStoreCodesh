@@ -1,5 +1,3 @@
-# Q.A Challenge Luma Store
-
 # Descrição do projeto
 
 O projeto foi desenvolvido utilizando a linguagem JavaScript com o framework Cypress e o pacote Faker para geração de dados dinâmicos. Dessa forma, não é necessário alterar os dados manualmente, garantindo que sempre sejam utilizados dados diferentes em cada execução.  
